@@ -1,8 +1,8 @@
-📝** Simple Notepad Web Application**
+📝**Simple Notepad Web Application**
 
 A lightweight and user-friendly notepad application built using HTML, CSS, and JavaScript. This project allows users to write, save, view, and clear notes directly in the browser using Local Storage, ensuring data persists even after refreshing the page.
 
-✨** Features**
+✨**Features**
   
   Create and edit notes in a clean interface
   
